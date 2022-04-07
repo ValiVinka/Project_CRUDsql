@@ -5,6 +5,7 @@ Main point of this project was to create a CRUD application for my sql database 
 <h2> Interface </h2>
 
 <h3> UPGRADE </h3> 
+
 ![Screenshot_47](https://user-images.githubusercontent.com/91315037/162167006-74cd202f-2a12-4312-9fdb-51065eb10fcb.png)
 
 The subject of this website was to see if your PC is capable of running properly for the intended purposes (casual, gaming, heavy gaming/workloads).
